@@ -7,7 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Unit.h"
 
-@interface Peasant : NSObject
+@interface Peasant : Unit
+
+@property int healthPoints;
+@property int attackPower;
+
 
 @end

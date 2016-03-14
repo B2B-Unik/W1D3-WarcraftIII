@@ -47,6 +47,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0BA0E0331C96491400AA6739 /* UnitDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnitDelegate.h; sourceTree = "<group>"; };
 		12F9E63A1B6C489000C0C6FB /* Barracks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Barracks.h; sourceTree = "<group>"; };
 		12F9E63B1B6C489000C0C6FB /* Barracks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Barracks.m; sourceTree = "<group>"; };
 		8311C6E1191CCB2300AF33F3 /* Warcraft 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Warcraft 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -158,6 +159,7 @@
 				8311C736191CCCCD00AF33F3 /* Peasant.m */,
 				8311C737191CCCCD00AF33F3 /* Unit.h */,
 				8311C738191CCCCD00AF33F3 /* Unit.m */,
+				0BA0E0331C96491400AA6739 /* UnitDelegate.h */,
 				8311C739191CCCCD00AF33F3 /* WarCarftIII-Prefix.pch */,
 				8311C73A191CCCCD00AF33F3 /* WarCarftIII.1 */,
 				8311C6F3191CCB2300AF33F3 /* WCAppDelegate.h */,
